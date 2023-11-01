@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312522760739",
+    "project_id": "login-register-firebase-e60ff",
+    "storage_bucket": "login-register-firebase-e60ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312522760739:android:1fe12b61a30be5b70e0796",
+        "android_client_info": {
+          "package_name": "com.example.gdsc_bppimt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYS50NPHHzYGtz2kCEAIODbM_ZbW-j3aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
