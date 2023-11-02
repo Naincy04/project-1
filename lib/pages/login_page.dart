@@ -1,5 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:gdsc_bppimt/main.dart';
 import 'package:gdsc_bppimt/pages/auth.dart';
 
 class LoginPage extends StatefulWidget {
@@ -10,8 +11,10 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  String? errorMessage = ' ';
+  String? errorMessage = '';
   bool isLogin = true;
+
+  late TextProvider textProvider;
 
   final TextEditingController _controllerEmail = TextEditingController();
   final TextEditingController _controllerPassword = TextEditingController();
@@ -26,16 +29,16 @@ class _LoginPageState extends State<LoginPage> {
     return Text(user?.email ?? 'User email');
   }
 
-  Widget _signOutButton() {
-    return ElevatedButton(
-      onPressed: signOut,
-      child: const Text("Sign Out"),
-    );
-  }
+  // Widget _signOutButton() {
+  //   return ElevatedButton(
+  //     onPressed: signOut,
+  //     child: const Text("Sign Out"),
+  //   );
+  // }
 
-  Future<void> signInWithEmailAndPAssword() async {
+  Future<void> signInWithEmailAndPassword() async {
     try {
-      await Auth().signInWithEmailandPAssword(
+      await Auth().signInWithEmailandPassword(
         email: _controllerEmail.text,
         password: _controllerPassword.text,
       );
@@ -63,22 +66,10 @@ class _LoginPageState extends State<LoginPage> {
     return Text(errorMessage == '' ? '' : 'Humm ? $errorMessage');
   }
 
-  Widget _title() {
-    return const Text("Naincyyy");
-  }
-
-  Widget _entryField(
-    TextEditingController controller,
-  ) {
-    return TextField(
-      controller: controller,
-    );
-  }
-
   Widget _submitButton() {
     return ElevatedButton(
       onPressed:
-          isLogin ? signInWithEmailAndPAssword : createUserWithEmailAndPassword,
+          isLogin ? signInWithEmailAndPassword : createUserWithEmailAndPassword,
       child: Text(isLogin ? 'Login' : 'Register'),
     );
   }
@@ -97,15 +88,35 @@ class _LoginPageState extends State<LoginPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(
+        title: const Text("Naincy"),
+      ),
       body: Padding(
         padding: const EdgeInsets.all(20.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             _userID(),
-            _signOutButton(),
-            _entryField(_controllerEmail),
-            _entryField(_controllerPassword),
+            // _signOutButton(),
+            TextField(
+              controller: _controllerEmail,
+              onChanged: (email) {
+                textProvider.setEmail(email);
+              },
+              decoration: const InputDecoration(
+                hintText: "Enter Username",
+              ),
+            ),
+            TextField(
+              controller: _controllerPassword,
+              onChanged: (password) {
+                textProvider.setPassword(password);
+              },
+              obscureText: true,
+              decoration: const InputDecoration(
+                hintText: "Enter Password",
+              ),
+            ),
             _errorMessage(),
             _submitButton(),
             _loginOrRegisterButton(),
@@ -115,3 +126,14 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
+
+// import 'package:flutter/material.dart';
+
+// class LoginPage extends StatelessWidget {
+//   const LoginPage({super.key});
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Text("NAincyy");
+//   }
+// }

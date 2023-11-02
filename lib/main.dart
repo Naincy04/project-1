@@ -20,10 +20,16 @@ Future<void> main() async {
 }
 
 class TextProvider extends ChangeNotifier {
-  String enteredText = '';
+  String email = '';
+  String password = '';
 
-  void setEnteredText(String text) {
-    enteredText = text;
+  void setEmail(String newEmail) {
+    email = newEmail;
+    notifyListeners();
+  }
+
+  void setPassword(String newPassword) {
+    password = newPassword;
     notifyListeners();
   }
 }
@@ -32,10 +38,10 @@ class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
 
   @override
-  _MyAppState createState() => _MyAppState();
+  MyAppState createState() => MyAppState();
 }
 
-class _MyAppState extends State<MyApp> {
+class MyAppState extends State<MyApp> {
   int _selectedIndex = 0;
 
   final List<Widget> _pages = [

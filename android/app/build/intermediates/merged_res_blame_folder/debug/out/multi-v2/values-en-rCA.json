@@ -4,7 +4,7 @@
             "outputFile": "com.example.gdsc_bppimt.app-mergeDebugResources-13:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/ea02de248aacacd1ad686942f29746c7/transformed/core-1.6.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/d28c347bf7cae3aa9d00d5ac7edea956/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:gdsc_bppimt/main.dart';
+import 'package:gdsc_bppimt/pages/auth.dart';
 import 'package:gdsc_bppimt/pages/login_page.dart';
 import 'package:gdsc_bppimt/pages/profile_page.dart';
 import 'package:provider/provider.dart';
@@ -12,6 +13,10 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  Future<void> signOut() async {
+    await Auth().signOut();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -20,59 +25,54 @@ class _HomePageState extends State<HomePage> {
         title: const Text(
           "Google Developer Student Clubs",
           style: TextStyle(
-              color: Colors.black, fontWeight: FontWeight.w400, fontSize: 17),
+              color: Colors.black, fontWeight: FontWeight.w400, fontSize: 10),
         ),
         actions: <Widget>[
           Consumer<TextProvider>(
             builder: (context, textProvider, _) {
-              return textProvider.enteredText.isNotEmpty
-                  ? Padding(
-                      padding: const EdgeInsets.only(right: 20.0),
-                      child: PopupMenuButton<String>(
-                        onSelected: (value) {
-                          if (value == 'profile') {
-                            Navigator.push(
-                                context,
-                                MaterialPageRoute(
-                                    builder: (context) => const ProfilePage()));
-                          } else if (value == 'logout') {
-                            LogoutFunction(context);
-                          }
-                        },
-                        itemBuilder: (BuildContext context) {
-                          return <PopupMenuEntry<String>>[
-                            const PopupMenuItem<String>(
-                              value: 'profile',
-                              child: Text('Profile'),
-                            ),
-                            const PopupMenuItem<String>(
-                              value: 'logout',
-                              child: Text('Logout'),
-                            ),
-                          ];
-                        },
-                        child: CircleAvatar(
-                          backgroundColor: Colors.black,
-                          child: Text(
-                            textProvider.enteredText
-                                .substring(0, 1)
-                                .toUpperCase(),
+              return textProvider.email.isNotEmpty
+                  ? PopupMenuButton<String>(
+                      onSelected: (value) {
+                        if (value == 'profile') {
+                          print("profile clicked");
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => const ProfilePage()));
+                        } else if (value == 'logout') {
+                          print("logout");
+                          logOutFunction(context);
+                        }
+                      },
+                      itemBuilder: (BuildContext context) {
+                        return <PopupMenuEntry<String>>[
+                          const PopupMenuItem<String>(
+                            value: 'profile',
+                            child: Text('Profile'),
                           ),
+                          const PopupMenuItem<String>(
+                            value: 'logout',
+                            child: Text('Logout'),
+                          ),
+                        ];
+                      },
+                      child: CircleAvatar(
+                        backgroundColor: Colors.black,
+                        child: Text(
+                          textProvider.email.substring(0, 1).toUpperCase(),
                         ),
                       ),
                     )
-                  : GestureDetector(
-                      onTap: () {
+                  : ElevatedButton(
+                      child: const Icon(Icons.login),
+                      onPressed: () {
+                        print("HEllooooooooo");
                         Navigator.push(
                           context,
                           MaterialPageRoute(
                               builder: (context) => const LoginPage()),
                         );
                       },
-                      child: const Icon(
-                        Icons.login,
-                        color: Colors.black,
-                      ),
                     );
             },
           )
@@ -81,17 +81,17 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  void LogoutFunction(BuildContext context) {
+  void logOutFunction(BuildContext context) {
     // Perform logout actions here, such as clearing session data, resetting authentication, etc.
 
     // Example: Clearing user session data
     // UserSession.clear(); // Custom function to clear session
 
     // Navigate to the login page
-    Navigator.pushAndRemoveUntil(
-      context,
-      MaterialPageRoute(builder: (context) => const LoginPage()),
-      (Route<dynamic> route) => false, // Clear all routes in stack
+    // Clear all routes in stack
+    ElevatedButton(
+      onPressed: signOut,
+      child: const Text("Sign Out"),
     );
   }
 }

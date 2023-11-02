@@ -4,7 +4,7 @@
             "outputFile": "com.example.gdsc_bppimt.app-mergeDebugResources-13:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/ea02de248aacacd1ad686942f29746c7/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/d28c347bf7cae3aa9d00d5ac7edea956/transformed/browser-1.4.0/res/values-fr-rCA/values-fr-rCA.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1118",
+                        "endColumns": "160",
+                        "endOffsets": "1274"
+                    }
+                },
+                {
+                    "source": "/home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/652c9ebeb3aef19b517d909bc7a4b111/transformed/jetified-play-services-base-18.0.1/res/values-fr-rCA/values.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/res/values-fr-rCA/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,23 +69,6 @@
                         "startOffsets": "55,161,341,471,580,751,884,1005,1279,1474,1586,1771,1907,2067,2246,2319,2383",
                         "endColumns": "105,179,129,108,170,132,120,112,194,111,184,135,159,178,72,63,83",
                         "endOffsets": "156,336,466,575,746,879,1000,1113,1469,1581,1766,1902,2062,2241,2314,2378,2462"
-                    }
-                },
-                {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/0edd635259bc052aa6b62d858f030e69/transformed/jetified-play-services-basement-18.1.0/res/values-fr-rCA/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "156",
-                        "endOffsets": "355"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1118",
-                        "endColumns": "160",
-                        "endOffsets": "1274"
                     }
                 }
             ]

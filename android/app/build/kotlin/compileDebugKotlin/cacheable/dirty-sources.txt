@@ -1,1 +1,0 @@
-/home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/kotlin/com/example/gdsc_bppimt/MainActivity.kt

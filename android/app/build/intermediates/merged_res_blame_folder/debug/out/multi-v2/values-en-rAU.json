@@ -4,17 +4,7 @@
             "outputFile": "com.example.gdsc_bppimt.app-mergeDebugResources-13:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/d28c347bf7cae3aa9d00d5ac7edea956/transformed/browser-1.4.0/res/values-en-rAU/values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,153,250,359",
-                        "endColumns": "97,96,108,98",
-                        "endOffsets": "148,245,354,453"
-                    }
-                },
-                {
-                    "source": "/home/naincy/.gradle/caches/transforms-3/ea02de248aacacd1ad686942f29746c7/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "458",
                         "endColumns": "100",
                         "endOffsets": "554"
+                    }
+                },
+                {
+                    "source": "/home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,153,250,359",
+                        "endColumns": "97,96,108,98",
+                        "endOffsets": "148,245,354,453"
                     }
                 }
             ]

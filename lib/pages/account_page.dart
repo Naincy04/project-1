@@ -7,6 +7,6 @@ class AccountPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text(Provider.of<TextProvider>(context).enteredText);
+    return Text(Provider.of<TextProvider>(context).email);
   }
 }
