@@ -8,7 +8,13 @@ import 'package:firebase_core/firebase_core.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await Firebase.initializeApp(
+    options: const FirebaseOptions(
+        apiKey: "AIzaSyAYS50NPHHzYGtz2kCEAIODbM_ZbW-j3aI",
+        appId: "1:312522760739:android:1fe12b61a30be5b70e0796",
+        messagingSenderId: "312522760739",
+        projectId: "login-register-firebase-e60ff"),
+  );
   runApp(
     MultiProvider(
       providers: [
@@ -20,6 +26,7 @@ Future<void> main() async {
 }
 
 class TextProvider extends ChangeNotifier {
+  String name = '';
   String email = '';
   String password = '';
 
@@ -30,6 +37,11 @@ class TextProvider extends ChangeNotifier {
 
   void setPassword(String newPassword) {
     password = newPassword;
+    notifyListeners();
+  }
+
+  void setName(String newName) {
+    name = newName;
     notifyListeners();
   }
 }

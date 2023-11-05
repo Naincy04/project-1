@@ -1,36 +1,36 @@
 -- Merging decision tree log ---
 application
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml:2:5-32:19
-MERGED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/6bf17d6e72f387467849b877ef5c0cc8/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/6bf17d6e72f387467849b877ef5c0cc8/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
-MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/2a180bf7fc0867dfcd768161d1d53788/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/2a180bf7fc0867dfcd768161d1d53788/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:5:5-6:19
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/6eb504c039de9ae21e6fde62903de7ae/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/6eb504c039de9ae21e6fde62903de7ae/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
-MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/2e78d3e321ce5eab79ab842f64ff997b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/2e78d3e321ce5eab79ab842f64ff997b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/778b3f52dd3a3faac2fc167fe7ffc511/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/778b3f52dd3a3faac2fc167fe7ffc511/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/16f43bf87a89305270df7a3143516607/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/16f43bf87a89305270df7a3143516607/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/7c3f43a6037316e9f120a856a8a85932/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/7c3f43a6037316e9f120a856a8a85932/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/9a8cdc6647c8d1f9c1d89b32bdcb1c63/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/9a8cdc6647c8d1f9c1d89b32bdcb1c63/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
 		INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml
 manifest
@@ -39,40 +39,40 @@ INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/An
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:17:1-75:12
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/6bf17d6e72f387467849b877ef5c0cc8/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:2:1-10:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/e56de43ff07e9c92dc0c74a871c978f0/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/2a180bf7fc0867dfcd768161d1d53788/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/6eb504c039de9ae21e6fde62903de7ae/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
-MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/04758a18c230e6b937dc341898ad0744/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/5c5d2f34622efb99fa9693acbf87d693/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/255d94f33c64868c00f287ef61bd59f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/e0b909fee511731747125c57cd457ccc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/2e78d3e321ce5eab79ab842f64ff997b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/27ebc050577376c1cd3c237c62b52bc5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/1eb1d1944495fe492826ca835f6ce9ab/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/8ab8e91f1b89aca3ecd8ba0ed3aa5ac7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/9da6d49d8b213ff6f9d989266170b017/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/cae5131b1e04bf17a45ad81e493b6cd2/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/778b3f52dd3a3faac2fc167fe7ffc511/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/16f43bf87a89305270df7a3143516607/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/7c3f43a6037316e9f120a856a8a85932/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/d630101c67e55dd788d32179c2a51d90/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a968f0344d690c442f0abb1793a2312c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/8061db5980db3fc169d81fd6e46694b6/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/ffceafc01718f3c64634b2059e186dd0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/13776fdae813ba827ac4fe05ed7462e3/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/80c800cf34fe35c53d849e55fd9a557d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/6d341788cacddca3d4558de729a1d84e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/bfe939c11433a723891afc47fb0f4638/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/29ce4c1c444e80cfb750bc6eb217c222/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/85fde4db6640b39d82ba79aa604ad5df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/9a8cdc6647c8d1f9c1d89b32bdcb1c63/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/d5b2c024faf876c885c7c0e3a55ec56d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/7ba96c09c8c705487d92fc3a3edec37e/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/ae7bdd178c2697f9bcc0576b4989e4a3/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/b6b14410368b040829bf1e0cd333c177/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -94,78 +94,78 @@ uses-sdk
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/6bf17d6e72f387467849b877ef5c0cc8/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/6bf17d6e72f387467849b877ef5c0cc8/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/52f8fd15c18f0b9a7183695e6ccd7216/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/e56de43ff07e9c92dc0c74a871c978f0/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/e56de43ff07e9c92dc0c74a871c978f0/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/2a180bf7fc0867dfcd768161d1d53788/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:4:5-44
-MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/2a180bf7fc0867dfcd768161d1d53788/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:4:5-44
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/6eb504c039de9ae21e6fde62903de7ae/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/6eb504c039de9ae21e6fde62903de7ae/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
-MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/bdd84113237d4c80e1d8ab5fb55e067c/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/04758a18c230e6b937dc341898ad0744/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/04758a18c230e6b937dc341898ad0744/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/5c5d2f34622efb99fa9693acbf87d693/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/5c5d2f34622efb99fa9693acbf87d693/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/255d94f33c64868c00f287ef61bd59f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/255d94f33c64868c00f287ef61bd59f2/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/e0b909fee511731747125c57cd457ccc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/e0b909fee511731747125c57cd457ccc/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/2e78d3e321ce5eab79ab842f64ff997b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /home/naincy/.gradle/caches/transforms-3/2e78d3e321ce5eab79ab842f64ff997b/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/27ebc050577376c1cd3c237c62b52bc5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/27ebc050577376c1cd3c237c62b52bc5/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/1eb1d1944495fe492826ca835f6ce9ab/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /home/naincy/.gradle/caches/transforms-3/1eb1d1944495fe492826ca835f6ce9ab/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/8ab8e91f1b89aca3ecd8ba0ed3aa5ac7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/naincy/.gradle/caches/transforms-3/8ab8e91f1b89aca3ecd8ba0ed3aa5ac7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/9da6d49d8b213ff6f9d989266170b017/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/naincy/.gradle/caches/transforms-3/9da6d49d8b213ff6f9d989266170b017/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/cae5131b1e04bf17a45ad81e493b6cd2/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /home/naincy/.gradle/caches/transforms-3/cae5131b1e04bf17a45ad81e493b6cd2/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/778b3f52dd3a3faac2fc167fe7ffc511/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] /home/naincy/.gradle/caches/transforms-3/778b3f52dd3a3faac2fc167fe7ffc511/transformed/jetified-integrity-1.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/16f43bf87a89305270df7a3143516607/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/naincy/.gradle/caches/transforms-3/16f43bf87a89305270df7a3143516607/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/7c3f43a6037316e9f120a856a8a85932/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/naincy/.gradle/caches/transforms-3/7c3f43a6037316e9f120a856a8a85932/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/d630101c67e55dd788d32179c2a51d90/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/naincy/.gradle/caches/transforms-3/d630101c67e55dd788d32179c2a51d90/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a968f0344d690c442f0abb1793a2312c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/naincy/.gradle/caches/transforms-3/a968f0344d690c442f0abb1793a2312c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/8061db5980db3fc169d81fd6e46694b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/naincy/.gradle/caches/transforms-3/8061db5980db3fc169d81fd6e46694b6/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/ffceafc01718f3c64634b2059e186dd0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/naincy/.gradle/caches/transforms-3/ffceafc01718f3c64634b2059e186dd0/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/13776fdae813ba827ac4fe05ed7462e3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/naincy/.gradle/caches/transforms-3/13776fdae813ba827ac4fe05ed7462e3/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/naincy/.gradle/caches/transforms-3/7ed361868e503533ce9f32e9962259b5/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/80c800cf34fe35c53d849e55fd9a557d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/naincy/.gradle/caches/transforms-3/80c800cf34fe35c53d849e55fd9a557d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/6d341788cacddca3d4558de729a1d84e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/naincy/.gradle/caches/transforms-3/6d341788cacddca3d4558de729a1d84e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/bfe939c11433a723891afc47fb0f4638/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/naincy/.gradle/caches/transforms-3/bfe939c11433a723891afc47fb0f4638/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/29ce4c1c444e80cfb750bc6eb217c222/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/naincy/.gradle/caches/transforms-3/29ce4c1c444e80cfb750bc6eb217c222/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/85fde4db6640b39d82ba79aa604ad5df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/naincy/.gradle/caches/transforms-3/85fde4db6640b39d82ba79aa604ad5df/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/9a8cdc6647c8d1f9c1d89b32bdcb1c63/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/naincy/.gradle/caches/transforms-3/9a8cdc6647c8d1f9c1d89b32bdcb1c63/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/d5b2c024faf876c885c7c0e3a55ec56d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/naincy/.gradle/caches/transforms-3/d5b2c024faf876c885c7c0e3a55ec56d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/7ba96c09c8c705487d92fc3a3edec37e/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/naincy/.gradle/caches/transforms-3/7ba96c09c8c705487d92fc3a3edec37e/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/ae7bdd178c2697f9bcc0576b4989e4a3/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/naincy/.gradle/caches/transforms-3/ae7bdd178c2697f9bcc0576b4989e4a3/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/b6b14410368b040829bf1e0cd333c177/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/naincy/.gradle/caches/transforms-3/b6b14410368b040829bf1e0cd333c177/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:23:9-61
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/main/AndroidManifest.xml
 		INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml
@@ -174,149 +174,149 @@ INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/A
 		INJECTED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:7:5-67
 	android:name
 		ADDED from /home/naincy/Desktop/project-1/gdsc_bppimt/android/app/src/debug/AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
-MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+ADDED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:68:13-37
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:68:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:34:13-32
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+		ADDED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_auth] /home/naincy/.pub-cache/hosted/pub.dev/firebase_auth-4.12.1/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_auth] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+ADDED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 	android:value
-		ADDED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+		ADDED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
-		ADDED from [:firebase_core] /home/naincy/.pub-cache/hosted/pub.dev/firebase_core-2.21.0/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+		ADDED from [:firebase_core] /home/naincy/Desktop/project-1/gdsc_bppimt/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:8:5-79
-MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/803eac7a08863f4fdcabd4ad8c2971f9/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] /home/naincy/.gradle/caches/transforms-3/f616bef88d1cb48f6dd0e82e4449bc70/transformed/jetified-recaptcha-18.1.2/AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:22-76
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:26:22-76
 activity#com.google.firebase.auth.internal.GenericIdpActivity
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:29:9-46:20
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:29:9-46:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:31:13-46
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:31:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:33:13-44
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:33:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:32:13-36
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:32:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:34:13-72
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:34:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:30:13-80
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:30:13-80
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:35:13-45:29
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:35:13-45:29
 action#android.intent.action.VIEW
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:17-69
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:25-66
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:36:25-66
 category#android.intent.category.DEFAULT
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:17-76
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:27-73
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:38:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:17-78
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:27-75
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:39:27-75
 data
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:41:17-44:51
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:41:17-44:51
 	android:path
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:43:21-37
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:43:21-37
 	android:host
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:42:21-49
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:42:21-49
 	android:scheme
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:44:21-48
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:44:21-48
 activity#com.google.firebase.auth.internal.RecaptchaActivity
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:47:9-64:20
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:47:9-64:20
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:49:13-46
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:49:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:51:13-44
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:51:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:50:13-36
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:50:13-36
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:52:13-72
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:52:13-72
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:48:13-79
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:48:13-79
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:53:13-63:29
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:53:13-63:29
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:69:13-71:85
+ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:69:13-71:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:71:17-82
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:71:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/b3d0cfeee5b8d807631980e0cb659eab/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:70:17-109
+		ADDED from [com.google.firebase:firebase-auth:22.2.0] /home/naincy/.gradle/caches/transforms-3/7498e52c2d39420ab3043620695f5081/transformed/jetified-firebase-auth-22.2.0/AndroidManifest.xml:70:17-109
 meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
-ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/naincy/.gradle/caches/transforms-3/09e254ed7e067db51011bdcd27ae193b/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
 meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
-ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
 	android:value
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/naincy/.gradle/caches/transforms-3/0274e4f9d9ebb91d8bc92d8c4008def4/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/naincy/.gradle/caches/transforms-3/efbf061eb12218dbdab77108d53f2073/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/e13d87acddb22ddfde3bb89c6b1d4e93/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/naincy/.gradle/caches/transforms-3/d1d412ba21f0e761a446d603aa05a397/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/naincy/.gradle/caches/transforms-3/5cc4fc145c7597f729be963434af7ab6/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
