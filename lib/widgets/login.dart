@@ -65,6 +65,9 @@ class _LoginWidgetState extends State<LoginWidget> {
             hintText: "Enter Password",
           ),
         ),
+        SizedBox(
+          height: 20,
+        ),
         ElevatedButton(
           onPressed: signInWithEmailAndPassword,
           child: const Text('Login'),

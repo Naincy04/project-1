@@ -76,9 +76,12 @@ class _RegisterWidgetState extends State<RegisterWidget> {
             hintText: "Enter Name",
           ),
         ),
+        SizedBox(
+          height: 20,
+        ),
         ElevatedButton(
           onPressed: createUserWithEmailAndPassword,
-          child: const Text('Login'),
+          child: const Text('Register'),
         ),
       ],
     );
